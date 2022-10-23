@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/92656447/197397371-5cac670e-998b-48c8-
 Bifurcar el repositorio. luego clone el repositorio localmente haciendo:
 
 ```bash
-git clone https://github.com/fernandopanduro/Indicador-De-Bateria.git
+git clone https://github.com/fernandopanduro/Tarjeta-Desplegable.git
 ```
 
 ### Paso 2: Iniciar
